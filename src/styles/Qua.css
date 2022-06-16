@@ -1,0 +1,7 @@
+@media only screen and (max-width: 600px) {
+    .graduation.cap.icon{
+        margin-top: -10px;
+        font-size: 22px;
+        padding-right: 7px;
+    }
+}
